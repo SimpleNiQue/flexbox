@@ -1,4 +1,4 @@
-# FlexBox and Grid CSS
+# <p style="color:goldenrod;"> FlexBox and Grid CSS</p>
 
 ## Hi :raised_hand_with_fingers_splayed: 
 ### This is My first Design with flexbox and Grids :boom:
@@ -6,8 +6,8 @@
 ### Check it out :point_down:
 
 <ul>
-  <li>#### <a href="./Flexbox_and_Grid/index.html">FlexBox</a> </li>
-  <li>#### <a href="./Flexbox_and_Grid/grid.html">Grid</a> </li>
+  <li><a href="./Flexbox_and_Grid/index.html">FlexBox</a> </li>
+  <li><a href="./Flexbox_and_Grid/grid.html">Grid</a> </li>
 </ul>
 
 
