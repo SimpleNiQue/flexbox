@@ -1,7 +1,7 @@
 # flexbox
+![Twitter](https://img.shields.io/twitter/follow/SimpleNick6.svg?style=social&label=@SimpleNick6)
 
-![twitter](https://badgen.net/badge/Twitter/@SimpleNick6/:blue?icon=twitter)
-![python](https://badgen.net/badge/python/:blue?icon=/pypi/python/black)
-![pypi](https://badgen.net/badge/icon/pypi?icon=pypi&label)
+```python
+print("Hello World")
 
-![Twitter](https://img.shields.io/twitter/SimpleNick6.svg?style=social&label=@SimpleNick6)
+```
