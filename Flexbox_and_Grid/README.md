@@ -1,4 +1,4 @@
-# Important !! pleas this are the links to the tasks :point_down:
+# Important !! Please this are the links to the tasks :point_down:
 
 # <p style="color:goldenrod;"> FlexBox and Grid CSS</p>
 
